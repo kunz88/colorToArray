@@ -18,4 +18,4 @@ const hexToArray = (str) => {
 
 
 }
-exports.hexToArray;
+module.exports = hexToArray;

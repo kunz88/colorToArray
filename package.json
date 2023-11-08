@@ -1,8 +1,7 @@
 {
   "name":"color-to-array-stefano-cunsolo",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
