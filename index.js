@@ -18,4 +18,4 @@ const hexToArray = (str) => {
 
 
 }
-console.log(hexToArray("black"))
+exports.hexToArray;
