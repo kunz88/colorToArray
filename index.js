@@ -1,6 +1,6 @@
 const hexToRgba = require("hex-to-rgba")
 
-console.log(hexToRgba("#000000"))
+
 const color = {
     black: "#000000",
     silver: "#C0C0C0",
