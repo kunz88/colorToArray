@@ -1,6 +1,6 @@
 {
-  "name":"color-to-array-stefano-cunsolo",
-  "version": "1.0.3",
+  "name": "color-to-array-stefano-cunsolo",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
